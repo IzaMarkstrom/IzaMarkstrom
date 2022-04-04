@@ -1,4 +1,4 @@
-### Hi there, my name is Iza👋
+## Hi there, my name is Iza👋
 
 ##### :mortar_board: Studying to become a Fullstack web developer.
 ##### 🌱 I’m currently learning Python, JavaScript, React, HTML/CSS, SASS.

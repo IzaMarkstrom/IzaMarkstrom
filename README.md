@@ -1,7 +1,7 @@
 ## Hi there, my name is Iza👋
 
 ##### :mortar_board: Studying to become a Fullstack web developer.
-##### 🌱 I’m currently learning VUE, PHP, JavaScript, React, HTML/CSS, SASS.
+##### 🌱 I’m currently learning VUE, PHP, JavaScript, React, TypeScript and ChakraUI.
 ##### 📫 How to reach me:
 
 <!--

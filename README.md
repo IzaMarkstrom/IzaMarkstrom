@@ -1,3 +1,6 @@
+[![image](https://user-images.githubusercontent.com/74114062/225093007-02e2c87c-03bd-4cc3-8b02-ca3383b9cbc9.png)](https://www.linkedin.com/in/iza-markstr%C3%B6m/)
+
+
 # Hi there, my name is Iza👋
 
 ### Right now I'm an intern at a small SAAS-company creating features in Vue in frontend, Laravel/PHP in backend. In my free time I'm dancing shuffle and going to as many small and big concerts as possible.

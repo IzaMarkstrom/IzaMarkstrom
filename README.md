@@ -1,4 +1,6 @@
-## Hi there, my name is Iza👋
+# Hi there, my name is Iza👋
+
+## Right now I'm an intern at a small SAAS-company creating features in Vue in frontend, Laravel/PHP in backend. 
 
 ##### :mortar_board: Studying to become a Fullstack web developer.
 ##### 🌱 I’m currently learning VUE, PHP, Laravel, React and TypeScript.

@@ -2,7 +2,7 @@
 
 ##### :mortar_board: Studying to become a Fullstack web developer.
 ##### 🌱 I’m currently learning VUE, PHP, Laravel, React and TypeScript.
-##### 📫 How to reach me:
+##### 📫 How to reach me: markstrom93@hotmail.com
 
 <!--
 **IzaMarkstrom/IzaMarkstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

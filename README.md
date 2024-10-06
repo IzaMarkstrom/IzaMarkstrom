@@ -3,7 +3,7 @@
 
 # Hi there, my name is Iza👋
 
-### Right now I'm an intern at a small SAAS-company creating features in Vue in frontend and Laravel/PHP in backend. In my free time I'm dancing shuffle and going to both big and small concerts since live music makes me extra happy.
+### I'm a Software Developer mainly focused on Front end. I work at the HR-tech company HaileyHR with React, TypeScript, AntD and MobX. In my free time I'm dancing shuffle, pole dance and going to both big and small concerts since live music makes me extra happy.
 
 * ##### :mortar_board: Studying to become a Fullstack web developer.
 * ##### 🌱 I’m currently learning VUE, PHP, Laravel, React and TypeScript.
